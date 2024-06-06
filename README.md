@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azizoghlemi
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning AI & DevOps
-- 📫 How to reach me zoghlemimedaziz@gmail.com
+- 👀 I’m interested in Mobile Software development
+- 🌱 I’m currently learning AI too
+- 📫 How to reach me zoghlemimedaziz@outlook.com
 
 <!---
 azizoghlemi/azizoghlemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
